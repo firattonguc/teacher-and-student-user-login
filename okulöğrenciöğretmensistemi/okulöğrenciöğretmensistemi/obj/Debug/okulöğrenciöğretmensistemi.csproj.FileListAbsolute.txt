@@ -1,0 +1,16 @@
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\bin\Debug\okulöğrenciöğretmensistemi.exe.config
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\bin\Debug\okulöğrenciöğretmensistemi.exe
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\bin\Debug\okulöğrenciöğretmensistemi.pdb
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.Form1.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.Properties.Resources.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.exe
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.pdb
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.frmogrencinotlar.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.frmogretmen.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.kulup.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.Frmdersler.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.Frmogrenci.resources
+C:\Users\firat\Desktop\udemy projeler\okulöğrenciöğretmensistemi\okulöğrenciöğretmensistemi\obj\Debug\okulöğrenciöğretmensistemi.Frmsınavnotlar.resources

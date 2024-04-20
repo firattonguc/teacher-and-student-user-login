@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|c:\\users\\firat\\desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6867CF41-4FB6-4DD4-AB32-8B461D66EC98}|okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi.csproj|solutionrelative:okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frms\u0131navnotlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:24:24.841Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\DataSet1.xsd",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-20T17:17:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frms\u0131navnotlar.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frms\u0131navnotlar.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA2wEoAAAAMAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:32:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwD8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:47:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frmogrenci.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmogrenci.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:37:35.781Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:44:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmogretmen.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\frmogretmen.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:33:57.785Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frmdersler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmdersler.cs",
+              "RelativeDocumentMoniker": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmdersler.cs",
+              "ToolTip": "C:\\Users\\firat\\Desktop\\udemy projeler\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmdersler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "okul\u00F6\u011Frenci\u00F6\u011Fretmensistemi\\Frmdersler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:11:44.403Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
